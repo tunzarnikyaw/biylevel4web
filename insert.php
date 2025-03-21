@@ -42,6 +42,7 @@
     }
 ?>
     <h1>Add New Student</h1>
+    <div><p><a href="select.php">Student List</a></p></div>
     <form action="" method="post">
         <div>
             <label for="sno">Student No.:</label>

@@ -56,10 +56,11 @@
 
 ?>
     <h1>Update Student</h1>
+    <div><p><a href="select.php">Student List</a></p></div>
     <form action="" method="post">
         <div>
             <label for="sno">Student No.:</label>
-            <input type="text" name="sno" id="sno" value="<?=$sno?>">
+            <input type="text" name="sno" id="sno" value="<?=$sno?>" readonly="readonly">
         </div>
         <div>
             <label for="sname">Student Name:</label>
