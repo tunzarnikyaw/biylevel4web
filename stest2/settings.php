@@ -15,6 +15,7 @@
     <h1>Settings Page</h1>
     <div>
         <a href="home.php">Home</a> | 
+        <a href="select.php">Students</a> | 
         <a>Settings</a> | 
         <a href="logout.php">Logout</a>
     </div>
